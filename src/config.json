@@ -1,0 +1,8 @@
+{
+  "BASE_API_URL": "https://dummyapi.io/data/v1/",
+  "API_USER": "user/",
+  "API_POST": "post",
+  "LIMIT_USERS": 20,
+  "LIMIT_POSTS": 5,
+  "HEADER": "61792d143295c91ad75373df"
+}
